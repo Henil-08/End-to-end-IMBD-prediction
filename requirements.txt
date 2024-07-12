@@ -7,4 +7,4 @@ matplotlib
 streamlit
 scikeras
 ipykernel
-pywin32
+pywin32==224
